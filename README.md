@@ -32,6 +32,6 @@ TODO
 TODO
 
 ### Step 5 - Visualise TBX5 enhancers idenfitied by this example 
-UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr15%3A103004082%2D103088558&hgsid=1134659145_DO3gHeFLzuoFSeD6fYgl2L4SMdFT
+UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
 
