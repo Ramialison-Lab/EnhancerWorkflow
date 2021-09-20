@@ -23,17 +23,27 @@ $ git pull upstream master
 Datasets used in this case study:
 ![Dataset-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Dataset-Screenshot1.png)
 
-
 ### Step 2 - Analyse H3K4me1 histone marks to screen for TBX5 enhancers
-TODO
+UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
+
 
 ### Step 3 - Use Hi-C dataset to further filter TBX5 enhancers from step 2
-TODO
+Hi-C dataset link: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+![Hi-C-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/Hi-C-Screenshot1.png)
 
 ### Step 4 - Use comparative genomics to further filter TBX5 enhancers from step 3
-TODO
+UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
 
 ### Step 5 - Visualise TBX5 enhancers idenfitied by this example 
 UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
 
+### Step 6 - Comparison of predicted TBX5 enhancers with existing TBX5 enhancers from VISTAheart (Dickel et al. 2016)
+UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
+
+### Step 7 - Comparison of predicted TBX5 enhancers with experimentally validated TBX5 enhancers from Smemo et al. 2012
+UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+![UCSC-Screenshot1](https://github.com/Ramialison-Lab/CardiacNetworkComponentPredictor/raw/main/CardiacNetworkComponentPredictor/images/UCSC-Screenshot1.png)
