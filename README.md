@@ -20,7 +20,9 @@ $ git pull upstream master
 
 ## An example execution of the pipeline - Heart-relevant TBX5 enhancers
 ### Step 1 - Gather relevant heart-specific datasets for TBX5
-TODO
+Datasets used in this case study:
+![Dataset-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Dataset-Screenshot1.png)
+
 
 ### Step 2 - Analyse H3K4me1 histone marks to screen for TBX5 enhancers
 TODO
