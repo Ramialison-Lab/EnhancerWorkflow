@@ -21,11 +21,11 @@ $ git pull upstream master
 
 ## An example execution of the pipeline - Heart-relevant TBX5 enhancers
 ### Step 1 - Gather relevant heart-specific datasets for TBX5
-Datasets used in this case study:
+Datasets used in this case study:https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113220660%2D114830659&hgsid=1173251107_I55zANRkFa6ma80YxOdLIh2Q3Rxt
 ![Dataset-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Dataset-Screenshot1.png)
 
 ### Step 2 - Analyse H3K4me1 histone marks to screen for TBX5 enhancers
-UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+UCSC Genome Browser custom track:
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot1.png)
 
 ### Step 3 - Use Hi-C dataset to further filter TBX5 enhancers from step 2
