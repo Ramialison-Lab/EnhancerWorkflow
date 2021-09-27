@@ -29,11 +29,11 @@ UCSC Genome Browser custom track:https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg3
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot1.png)
 
 ### Step 3 - Use Hi-C dataset to further filter TBX5 enhancers from step 2
-Hi-C dataset link: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+Hi-C dataset link (examples): https://data.4dnucleome.org/higlass-view-configs/6762da2c-87d8-4112-854b-04b73ec3d205/ https://data.4dnucleome.org/higlass-view-configs/6762da2c-87d8-4112-854b-04b73ec3d205/
 ![Hi-C-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Hi-C-Screenshot1.png)
 
 ### Step 4 - Use comparative genomics to further filter TBX5 enhancers from step 3
-UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113391250%2D114801249&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+UCSC Genome Browser custom track: https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113730352%2D114803684&hgsid=1173255677_vaqbU8wUDolnobVALZf6tw1zohh9
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot1.png)
 
 ### Step 5 - Visualise TBX5 enhancers idenfitied by this example 
