@@ -25,7 +25,7 @@ Datasets used in this case study:https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg3
 ![Dataset-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Dataset-Screenshot1.png)
 
 ### Step 2 - Analyse H3K4me1 histone marks to screen for TBX5 enhancers
-UCSC Genome Browser custom track:
+UCSC Genome Browser custom track:https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113220660%2D114830659&hgsid=1173251107_I55zANRkFa6ma80YxOdLIh2Q3Rxt
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot1.png)
 
 ### Step 3 - Use Hi-C dataset to further filter TBX5 enhancers from step 2
