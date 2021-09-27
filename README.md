@@ -41,9 +41,9 @@ UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg3
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot1.png)
 
 ### Step 6 - Comparison of predicted TBX5 enhancers with existing TBX5 enhancers from VISTAheart (Dickel et al. 2016)
-UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113264382%2D115181381&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+UCSC Genome Browser custom track:http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113903382%2D114542381&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot1.png)
 
 ### Step 7 - Comparison of predicted TBX5 enhancers with experimentally validated TBX5 enhancers from Smemo et al. 2012
-UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113472591%2D114579590&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
+UCSC Genome Browser custom track:http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113903382%2D114542381&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
 ![UCSC-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot1.png)
