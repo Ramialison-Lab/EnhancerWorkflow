@@ -24,7 +24,7 @@ $ git pull upstream master
 Datasets used in this case study:
 ![Dataset-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Dataset-Screenshot1.png)
 
-VISTAheart (Dickel et al. 2016) data:
+VISTAheart (Dickel et al. 2016) data: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr15%3A103004082%2D103088558&hgsid=1134659145_DO3gHeFLzuoFSeD6fYgl2L4SMdFT
 ![UCSC-VISTAheart](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-VISTAheart.png)
 
 ### Step 2 - Analyse H3K4me1 histone marks to screen for TBX5 enhancers
@@ -32,9 +32,7 @@ UCSC Genome Browser custom track: https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg
 ![UCSC-Screenshot-Step2](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot-Step2.png)
 
 ### Step 3 - Use Hi-C dataset to further filter TBX5 enhancers from step 2
-Hi-C dataset link: 
-https://data.4dnucleome.org/experiments-hi-c/4DNEXCUGCHE3/
-https://data.4dnucleome.org/experiments-hi-c/4DNEXIKZZCZH/
+Hi-C dataset links: https://data.4dnucleome.org/experiments-hi-c/4DNEXCUGCHE3/ and https://data.4dnucleome.org/experiments-hi-c/4DNEXIKZZCZH/
 ![Hi-C-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Hi-C-Screenshot1.png)
 
 ### Step 4 - Use comparative genomics to further filter TBX5 enhancers from step 3
