@@ -2,7 +2,7 @@
 ## Description
 A workflow for screening / selecting gene-associated enhancers based on cis-regulatory elements (CREs) and comparative genomics.
 
-Manuscript: Jooa Kwon, Hieu T. Nim, Mirana Ramialison<sup>*</sup>. "A web-based workflow to select enhancers for a specific gene-of-interest". (<sup>\*</sup>: corresponding author)
+Manuscript: Jooa Kwon, Hieu T. Nim*, Mirana Ramialison<sup>*</sup>. "EnhancerWorkflow: A web-based workflow to select enhancers for a specific gene-of-interest". (<sup>\*</sup>: corresponding authors)
 
 ## Fork the project
 To get the source code, please click the "fork" button in the upper-right and then add this repo as an upstream source:
