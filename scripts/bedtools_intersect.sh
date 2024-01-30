@@ -1,5 +1,6 @@
 #! /bin/bash
-#Randomly selected 4450 CREs from  the raw heart enhancers, repeat the simulation 1000 times
+# Utility to intersect regions between bed files with randomisation. 
+# Randomly selected 4450 CREs from  the raw heart enhancers for Tbx5, repeat the simulation 1000 times 
 for i in {0..1000}
 do
   shuf -n 4450 RawHeartEnhancers.bed > out/random_RawHeartEnhancers.bed
