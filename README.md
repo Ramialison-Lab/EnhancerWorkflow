@@ -63,5 +63,4 @@ Galaxy workflow / history: https://usegalaxy.org/u/jooa/h/unnamed-history
 UCSC Genome Browser custom track: http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113417361%2D114827360&hgsid=1165588985_7U2GpDLLXnWcAL9FRbMZ8LYiaCFl
 ![UCSC-Screenshot-Step7](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot-Step7.png)
 
-
 	
