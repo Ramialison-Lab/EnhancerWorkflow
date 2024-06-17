@@ -26,24 +26,20 @@ Schematic protocol to define the enhancer searching zone using control Enhancer,
 ![Figure1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Figure1.png)
 
 
-### Step 1 - Gather relevant heart-specific datasets for TBX5
+### Step 2 - Gather relevant heart-specific datasets for TBX5
 Datasets used in this case study:
 ![Dataset-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Dataset-Screenshot1.png)
 
 VISTAheart (Dickel et al. 2016) data: http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm9&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr15%3A103004082%2D103088558&hgsid=1134659145_DO3gHeFLzuoFSeD6fYgl2L4SMdFT
 ![UCSC-VISTAheart](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-VISTAheart.png)
 
-### Step 2 - Analyse H3K4me1 histone marks to screen for TBX5 enhancers
+### Step 3 - Analyse H3K4me1 histone marks to screen for TBX5 enhancers
 UCSC Genome Browser custom track: https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr12%3A113764994%2D114838326&hgsid=1173251107_I55zANRkFa6ma80YxOdLIh2Q3Rxt
 ![UCSC-Screenshot-Step2](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot-Step2.png)
 
-### Step 3 - Use Hi-C dataset to further filter TBX5 enhancers from step 2
+### Step 4 - Use Hi-C dataset to further filter TBX5 enhancers from step 2
 Hi-C dataset links: https://data.4dnucleome.org/experiments-hi-c/4DNEXCUGCHE3/ and https://data.4dnucleome.org/experiments-hi-c/4DNEXIKZZCZH/
 ![Hi-C-Screenshot1](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/Hi-C-Screenshot1.png)
-
-### Step 4 - Use comparative genomics to further filter TBX5 enhancers from step 3
-UCSC Genome Browser custom track: https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr5%3A119318425%2D120439424&hgsid=1175114717_4p3oYaBAmnkej8yP6JdfD5R8qadB
-![UCSC-Screenshot-Step4](https://github.com/Ramialison-Lab/EnhancerWorkflow/raw/main/images/UCSC-Screenshot-Step4.png)
 
 ### Step 5 - Visualise TBX5 enhancers idenfitied by this example 
 UCSC Genome Browser custom track: https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr5%3A119685600%2D119686720&hgsid=1175114717_4p3oYaBAmnkej8yP6JdfD5R8qadB
